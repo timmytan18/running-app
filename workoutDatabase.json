@@ -1,0 +1,521 @@
+{
+  "RunningWorkouts": 
+[
+  {
+    "Description": "(2X) 200 meters at Mile pace\n\nSplit 800 meters:\n\nthe first 600 meters at 5k pace,\n\nthe last 200 meters at Mile pace\n\n400 meters at 5k pace\n\nSplit 800 meters:\n\nthe first 600 meters at 5k pace,\n\nthe last 200 meters at Mile pace\n\n400 meters at 5k pace",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "1 mile at your 10k pace\n\n400 meters at Mile pace\n\n800 meters at 5k pace\n\nFollow each interval with 3 minutes of recovery.\n\nRepeat series 2x.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "400 meters at 10k pace\n\n(2X) 400 meters at 5k pace\n\n400 meters at Mile pace\n\n2 minute recovery between each interval.\n\nRepeat series 2x.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "800 meters at 5k pace 45-sec recovery\n\n200 meters at Mile pace 2-min recovery\n\n600 meters at 5k pace 45-sec recovery\n\n200 meters at Mile pace 2-min recovery\n\n400 meters at 5k pace 45-sec recovery",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n1000 meters at 10k pace\n\n(4X) 100-meter Strides\n\n2 minute rest between each interval.\n\n30 seconds between Strides.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "300 meters at Mile pace 45-sec recovery\n\n400 meters at 5k pace 2-min recovery\n\n500 meters at 5k pace 2-min recovery\n\n600 meters at 10k pace 2-min recovery\n\n500 meters at 5k pace 2-min recovery\n\n400 meters at 5k pace 2-min recovery\n\n300 meters at Mile pace",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "Start out your session with a 1.5-mile time\ntrial running at your 5k pace.\n\nFollow with:\n\n200 meters at 10k pace\n\n200 meters at 5k pace\n\n200 meters at Mile pace\n\n200 meters at 10k pace\n\n200 meters at 5k pace\n\n200 meters at Mile pace\n\n10-minute recovery after 2 miles\n\n60-seconds recovery between\n\n200 meter intervals",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "Run 1 Mile: Alternate running 200 meters at\n\nTempo pace then 200 meters at Mile pace.\n\nFollow with 4-minute recovery.\n\nSplit 400m: the first 200m at Tempo pace the\n\nlast 200m at Mile pace. 2-minute recovery.\n\nSplit 400m: the first 200m at Tempo pace the\n\nlast 200m at Mile pace.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "(2x) 200 meters at Mile pace\n\n400 meters at 10k pace\n\n(2x) 200 meters at 5k pace\n\n400 meters at 10k pace\n\n(2x) 200 meters at Mile pace\n\n60-second recovery between each interval.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "1 mile Recovery Run\n\n(2x) 100-meter Strides\n\n1000 meters at Tempo pace\n\n(2x) 100-meter Strides\n\n1 mile Recovery Run\n\n3 minutes recovery between each interval.\n\n30-second recovery between Strides.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "(2x) 200 meters at Mile pace\n\n400 meters at 5k pace\n\n800 meters at 10k pace\n\n400 meters at Marathon pace\n\n200 meters at Mile pace\n\n2-minute recovery between each interval.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "2 mile Recovery Run\n\n(8x) 100-meter Strides\n\n1 mile Recovery Run",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "Follow with this Fartlek sequence:\n\n1-min at a hard pace, 30-sec easy pace\n\n2-min hard pace, 1-min easy pace\n\n3-min hard pace, 1:30-min easy pace\n\n3-min hard pace, 1:30-min easy pace\n\n2-min hard pace, 1-min easy pace\n\n1-min at a hard pace, 30-sec easy pace",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Trail"
+  },
+  {
+    "Description": "3 mile Progression Run averaging\n\nat your Tempo pace.\n\n(8x) 100-meter Strides",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Run 3 miles as a Progression Run. Your pace\n\nshould drop so the last 1.5 miles are run at a\n\nTempo pace.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Run uphill for 2 minutes preferably 90\n\nseconds up and 30 seconds over a crest.\n\nRepeat 6x.\n\nIf you don’t have a hill, do a 2-minute\n\nProgression Run that builds from a 10k to a\n\nMile pace and repeat 6x.\n\nWhether on a hill or flat, allow for a full\n\nrecovery between intervals.",
+    "Race": "5K",
+    "Type": "Speed",
+    "Location": "Hill"
+  },
+  {
+    "Description": "2-3 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "5K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "3-4 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "5K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "4-5 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "5K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "We recommend recovering with a 1-3 mile\nProgression Run. Start slow and quicken your\npace over the course of your run.",
+    "Race": "5K",
+    "Type": "Recovery",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Focus on control as you recover from your\nlast workout. Recover with 2-3 Progression\nmiles. Gradually build speed from your first\nmile to your last.",
+    "Race": "5K",
+    "Type": "Recovery",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Today is about recovering. Give your body what\nit craves by running a few Recovery miles,\ndoing exercises.",
+    "Race": "5K",
+    "Type": "Recovery",
+    "Location": "Trail"
+  },
+  {
+    "Description": "(2X) 200 meters at Mile pace\n\nSplit 800 meters:\n\nthe first 600 meters at 5k pace,\n\nthe last 200 meters at Mile pace\n\n400 meters at 5k pace\n\nSplit 800 meters:\n\nthe first 600 meters at 5k pace,\n\nthe last 200 meters at Mile pace\n\n400 meters at 5k pace",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "1 mile at your 10k pace\n\n400 meters at Mile pace\n\n800 meters at 5k pace\n\nFollow each interval with 3 minutes of recovery.\n\nRepeat series 2x.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "400 meters at 10k pace\n\n(2X) 400 meters at 5k pace\n\n400 meters at Mile pace\n\n2 minute recovery between each interval.\n\nRepeat series 2x.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "800 meters at 5k pace 45-sec recovery\n\n200 meters at Mile pace 2-min recovery\n\n600 meters at 5k pace 45-sec recovery\n\n200 meters at Mile pace 2-min recovery\n\n400 meters at 5k pace 45-sec recovery",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n(4X) 100-meter Strides\n\n2 minute rest between each interval.\n\n30 seconds between Strides.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "300 meters at Mile pace 45-sec recovery\n\n400 meters at 5k pace 2-min recovery\n\n500 meters at 5k pace 2-min recovery\n\n600 meters at 10k pace 2-min recovery\n\n500 meters at 5k pace 2-min recovery\n\n400 meters at 5k pace 2-min recovery\n\n300 meters at Mile pace",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "Start out your session with a 2-mile time\ntrial running at your 5k pace.\n\nFollow with:\n\n200 meters at 10k pace\n\n200 meters at 5k pace\n\n200 meters at Mile pace\n\n200 meters at 10k pace\n\n200 meters at 5k pace\n\n200 meters at Mile pace\n\n10-minute recovery after 2 miles\n\n60-seconds recovery between\n\n200 meter intervals",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "Run 1 Mile: Alternate running 200 meters at\n\nTempo pace then 200 meters at Mile pace.\n\nFollow with 4-minute recovery.\n\nSplit 400m: the first 200m at Tempo pace the\n\nlast 200m at Mile pace. 2-minute recovery.\n\nSplit 400m: the first 200m at Tempo pace the\n\nlast 200m at Mile pace.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "(2x) 200 meters at Mile pace\n\n400 meters at 10k pace\n\n(2x) 200 meters at 5k pace\n\n400 meters at 10k pace\n\n(2x) 200 meters at Mile pace\n\n60-second recovery between each interval.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "1 mile Recovery Run\n\n(2x) 100-meter Strides\n\n1000 meters at Tempo pace\n\n(2x) 100-meter Strides\n\n1 mile Recovery Run\n\n3 minutes recovery between each interval.\n\n30-second recovery between Strides.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "(2x) 200 meters at Mile pace\n\n400 meters at 5k pace\n\n800 meters at 10k pace\n\n400 meters at Marathon pace\n\n200 meters at Mile pace\n\n2-minute recovery between each interval.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "2 mile Recovery Run\n\n(8x) 100-meter Strides\n\n1 mile Recovery Run",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Track"
+  },
+  {
+    "Description": "Follow with this Fartlek sequence:\n\n1-min at a hard pace, 30-sec easy pace\n\n2-min hard pace, 1-min easy pace\n\n3-min hard pace, 1:30-min easy pace\n\n3-min hard pace, 1:30-min easy pace\n\n2-min hard pace, 1-min easy pace\n\n1-min at a hard pace, 30-sec easy pace\n\n1 mile at Tempo pace" ,
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Trail"
+  },
+  {
+    "Description": "3 mile Progression Run averaging\n\nat your Tempo pace.\n\n(8x) 100-meter Strides",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Run 3 miles as a Progression Run. Your pace\n\nshould drop so the last 1.5 miles are run at a\n\nTempo pace.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Run uphill for 2 minutes preferably 90\n\nseconds up and 30 seconds over a crest.\n\nRepeat 6x.\n\nIf you don’t have a hill, do a 2-minute\n\nProgression Run that builds from a 10k to a\n\nMile pace and repeat 6x.\n\nWhether on a hill or flat, allow for a full\n\nrecovery between intervals.",
+    "Race": "10K",
+    "Type": "Speed",
+    "Location": "Hill"
+  },
+  {
+    "Description": "3-4 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "10K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "4-5 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "10K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "5-6 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "10K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "6-7 MILES\n\nRun this\n\ndistance consistently to build your endurance\n\nfor race day.\n\nRemember to pay more attention to the quality\n\nof your pace over the course of your runs. Try to\n\nmaintain *.",
+    "Race": "10K",
+    "Type": "Endurance",
+    "Location": "Trail"
+  },
+  {
+    "Description": "We recommend recovering with a 1-3 mile\nProgression Run. Start slow and quicken your\npace over the course of your run.",
+    "Race": "10K",
+    "Type": "Recovery",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Focus on control as you recover from your\nlast workout. Recover with 2-3 Progression\nmiles. Gradually build speed from your first\nmile to your last.",
+    "Race": "10K",
+    "Type": "Recovery",
+    "Location": "Trail"
+  },
+  {
+    "Description": "Today is about recovering. Give your body what\nit craves by running a few Recovery miles,\ndoing exercises.",
+    "Race": "10K",
+    "Type": "Recovery",
+    "Location": "Trail"
+  },
+  {
+    "Description": "800 meters at 10k pace (2x) 400 meters at 5k pace (4x) 200 meters at 5k pace (2x) 400 meters at 5k pace 800 meters at 10k pace 2-minute recovery after each 800-meter interval, 90 seconds after each 400-meter interval and 60 seconds after each 200-meter interval.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "1 mile at your 10k pace\n\n400 meters at Mile pace\n\n800 meters at 5k pace\n\nFollow each interval with 3 minutes of recovery.\n\nRepeat series 2x.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "400 meters at 10k pace\n\n(2X) 400 meters at 5k pace\n\n400 meters at Mile pace\n\n2 minute recovery between each interval.\n\nRepeat series 2x.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "800 meters at 5k pace 45-sec recovery\n\n200 meters at Mile pace 2-min recovery\n\n600 meters at 5k pace 45-sec recovery\n\n200 meters at Mile pace 2-min recovery\n\n400 meters at 5k pace 45-sec recovery",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n1000 meters at 10k pace\n\n1000 meters at Tempo pace\n\n1000 meters at 10k pace\n\n(4X) 100-meter Strides\n\n2 minute rest between each interval.\n\n30 seconds between Strides.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "300 meters at Mile pace 45-sec recovery\n\n400 meters at 5k pace 2-min recovery\n\n500 meters at 5k pace 2-min recovery\n\n600 meters at 10k pace 2-min recovery\n\n500 meters at 5k pace 2-min recovery\n\n400 meters at 5k pace 2-min recovery\n\n300 meters at Mile pace",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "Start out your session with a 1.5-mile time\ntrial'running at your 5k pace.\n\nFollow with:\n\n200 meters at 10k pace\n\n200 meters at 5k pace\n\n200 meters at Mile pace\n\n200 meters at 10k pace\n\n200 meters at 5k pace\n\n200 meters at Mile pace\n\n10-minute recovery after 2 miles\n\n60-seconds recovery between\n\n200 meter intervals",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "Run 1 Mile: Alternate running 200 meters at\n\nTempo pace then 200 meters at Mile pace.\n\nFollow with 4-minute recovery.\n\nSplit 400m: the first 200m at Tempo pace the\n\nlast 200m at Mile pace. 2-minute recovery.\n\nSplit 400m: the first 200m at Tempo pace the\n\nlast 200m at Mile pace.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "(2x) 200 meters at Mile pace\n\n400 meters at 10k pace\n\n(2x) 200 meters at 5k pace\n\n400 meters at 10k pace\n\n(2x) 200 meters at Mile pace\n\n60-second recovery between each interval.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "1 mile Recovery Run\n\n(2x) 100-meter Strides\n\n1000 meters at Tempo pace\n\n(2x) 100-meter Strides\n\n1 mile Recovery Run\n\n3 minutes recovery between each interval.\n\n30-second recovery between Strides.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "(2x) 200 meters at Mile pace\n\n400 meters at 5k pace\n\n800 meters at 10k pace\n\n400 meters at Marathon pace\n\n200 meters at Mile pace\n\n2-minute recovery between each interval.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "2 mile Recovery Run\n\n(8x) 100-meter Strides\n\n1 mile Recovery Run",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Track",
+    "Duration": "null"
+  },
+  {
+    "Description": "Follow with this Fartlek sequence:\n\n1-min at a hard pace, 30-sec easy pace\n\n2-min hard pace, 1-min easy pace\n\n3-min hard pace, 1:30-min easy pace\n\n3-min hard pace, 1:30-min easy pace\n\n2-min hard pace, 1-min easy pace\n\n1-min at a hard pace, 30-sec easy pace",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Trail",
+    "Duration": "null"
+  },
+  {
+    "Description": "3 mile Progression Run averaging\n\nat your Tempo pace.\n\n(8x) 100-meter Strides",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Trail",
+    "Duration": "null"
+  },
+  {
+    "Description": "Run 3 miles as a Progression Run. Your pace\n\nshould drop so the last 1.5 miles are run at a\n\nTempo pace.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Trail",
+    "Duration": "null"
+  },
+  {
+    "Description": "Run uphill for 2 minutes preferably 90\n\nseconds up and 30 seconds over a crest.\n\nRepeat 6x.\n\nIf you don't have a hill, do a 2-minute\n\nProgression Run that builds from a 10k to a\n\nMile pace and repeat 6x.\n\nWhether on a hill or flat, allow for a full\n\nrecovery between intervals.",
+    "Race": "Marathon",
+    "Type": "Speed",
+    "Location": "Hill",
+    "Duration": "null"
+  },
+  {
+    "Description": "6 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. In earlier weeks, the goal is to get your body used to longer distances. Don't worry too much about the pace; it should feel comfortable.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "null"
+  },
+  {
+    "Description": "8 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. In earlier weeks, the goal is to get your body used to longer distances. Don't worry too much about the pace; it should feel comfortable.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": “null”
+  },
+  {
+    "Description": "10 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. In earlier weeks, the goal is to get your body used to longer distances. Don't worry too much about the pace; it should feel comfortable.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "10 MILES Your longest run yet. Run this distance consistently to prepare your mind and body for race day. If you are more experienced start to pay more attention to the quality of your pace over the course of your runs.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "12 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. In earlier weeks, the goal is to get your body used to longer distances. Don't worry too much about the pace; it should feel comfortable.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "14 MILES Your longest run yet. Run this distance consistently to prepare your mind and body for race day. If you are more experienced start to pay more attention to the quality of your pace over the course of your runs.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "16 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. Remember to pay more attention to the quality of your pace over the course of your runs. Try to maintain a *.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "18 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. Remember to pay more attention to the quality of your pace over the course of your runs. Try to maintain a *.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "14 MILES This is your longest run of the week. Run this distance consistently to build your endurance for race day. Remember to pay more attention to the quality of your pace over the course of your runs. Try to maintain a *.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "14 MILES Running this distance consistently will help prepare the body and mind to go the distance on race day. If your race is coming up, monitor your average pace over the course of your runs. The mix of pace and distance will serve as an important ingredient to your success on race day.",
+    "Race": "Marathon",
+    "Type": "Endurance",
+    "Location": "Trail",
+    "Duration": "yes"
+  },
+  {
+    "Description": "Get the most out of today with a 3-7 mile run\nthat lets you recover as efficiently as possible.\nBuild your speed gradually so your first mile\nis your slowest and your last is your fastest.",
+    "Race": "Marathon",
+    "Type": "Recovery",
+    "Location": "Trail",
+    "Duration": "null"
+  },
+  {
+    "Description": "We recommend recovering with a 2-5 mile\nProgression Run. Start slow and quicken your\npace over the course of your run.",
+    "Race": "Marathon",
+    "Type": "Recovery",
+    "Location": "Trail",
+    "Duration": "null"
+  },
+  {
+    "Description": "Get the most out of today with a 3-7 mile run that lets you recover as efficiently as possible. Build your speed gradually so your first mile is your slowest and your last is your fastest.",
+    "Race": "Marathon",
+    "Type": "Recovery",
+    "Location": "Trail",
+    "Duration": "null"
+  }
+],
+"StrengthExercises":
+[
+  {
+    "ExerciseName": "Planks",
+    "Description": "Prop yourself up on your elbows with your feet slightly apart. Make sure your body is aligned, your abdominal muscles are tight, and shoulders are directly above the elbows and down and back, not hunched up. Hold this position for 45 seconds to one minute. Gradually add time as your core gets stronger.\n\nModifications: Plank variations include: side planks to target obliques, single leg planks, spider planks, mountain climber planks, and supine planks.\n\nRepetitions: 3 to 5\n\nMuscles worked: core, lower back, shoulders"
+  },
+  {
+    "ExerciseName": "Lower-Body Russian Twist",
+    "Description": "Lie on your back with your upper legs perpendicular to the floor and your knees bent 90-degrees. Without changing the bend in your hips or knees, lower your legs to the left side of your body while keeping your shoulders in contact with the floor. Lift them back to the starting position, and repeat to the right side of your body. That's one repetition.\n\nModification: To make it harder, keep your legs straight.\n\nRepetitions: 10 to 12\n\nMuscles worked: core"
+  },
+  {
+    "ExerciseName": "Scorpion",
+    "Description": "Get into pushup position but with your feet on a bench. Raise your right knee toward your left shoulder as you rotate your hips up and to the left as far as you can. Then reverse directions, rotating your hips up and to the right, and try to touch your right foot to the back of your left shoulder (you won't be able to do it). That's one repetition. Continue for 30 seconds with your right leg, then switch legs.\n\nModifications: To make it easier, do step one of the exercise, twisting in just one direction. To make it harder, instead of putting your feet on a bench, do the exercise with your shins on a stability ball.\n\nRepetitions: As many as you can in 30 seconds\n\nMuscles worked: shoulders, core"
+  },
+  {
+    "ExerciseName": "Back Extensions",
+    "Description": "Lie facedown on a stability ball with your feet spread wide for balance. Your elbows should be bent with your hands lightly touching the ground for initial support.\n\nSqueeze your glutes and lift your torso up until your body forms a straight line. As you lift your torso, allow your hands to come off the ground, keeping your elbows bent. Extend your arms overhead. Hold for one or two seconds. Release your arms and then your torso back down to the start position. That's one rep. Aim for 10-12. No stability ball? You can do the movement on an exercise mat: Raise your thighs and arms off the ground while your torso stays in contact with the ground.\n\nModifications: To make it harder, hold light dumbbells.\n\nRepetitions: 10 to 12\n\nMuscles worked: lower back, glutes, middle back, shoulders"
+  },
+  {
+    "ExerciseName": "Kettlebell Squats With Overhead Press",
+    "Description": "Hold the kettlebell with both hands in front of your chest. Stand with your feet hip-width apart. Push your hips back, and lower your body into a squat until your thighs are parallel to the floor. Press the kettlebell above your head, and as you stand back up, return the kettlebell to the original position.\n\nModifications: Do the squat without the overhead raise by just keeping the kettlebell in the center chest position for the duration of the exercise.\n\nRepetitions: 10 to 12\n\nMuscles worked: glutes, quads, hamstrings, lower back, upper back, shoulders"
+  },
+  {
+    "ExerciseName": "Overhead Lunge",
+    "Description": "Hold a pair of dumbbells straight above your shoulders, with your arms straight and elbows locked. Step forward with your left leg, and lower your body until your front knee is bent 90 degrees. Return to the starting position, and repeat with your right leg. That's one repetition.\n\nModification: To make it easier, hold dumbbells at shoulder level.\n\nRepetitions: 6 to 8 (each leg)\n\nMuscles worked: quadriceps, hamstrings, glutes, shoulders, core"
+  },
+  {
+    "ExerciseName": "Stability Ball Jackknife",
+    "Description": "Get into pushup position but instead of placing your feet on the floor, rest your shins on a stability ball. Pull the stability ball toward your chest by raising your hips and rounding your back as you roll the ball forward with your feet.\n\nModification: To make it easier, pull your knees as close as you can to your chest without lifting your hips into the air, and return to the starting position.\n\nRepetitions: 10 to 12\n\nMuscles worked: shoulders, core"
+  },
+  {
+    "ExerciseName": "Stability Ball Hip Extension",
+    "Description": "Lie on your back on the floor, and place your calves on a stability ball. Extend your arms to your sides to help support and balance your body. Push your hips up so that your body forms a straight line from your shoulders to your knees. Without allowing your hips to sag (keep with your body at all times), roll the ball as close as you can to your hips by bending your knees and pulling your heels toward you.\n\nModifications: To make it easier, only do steps one and two, and skip the leg curl. To make it harder, do the exercise with just one leg, holding the other leg in the air above your hips.\n\nRepetitions: 6 to 8\n\nMuscles worked: hamstrings, glutes, core"
+  },
+  {
+    "ExerciseName": "Rotational Shoulder Press",
+    "Description": "Stand holding a pair of dumbbells just outside your shoulders, your palms facing each other. Press the dumbbells overhead as you rotate to your left. Lower the dumbbells as you rotate back to the center, then rotate to the right as you press the weights upward again. That's one repetition.\n\nModification: To make it easier, do half of the repetitions without the rotations.\n\nRepetitions: 6 to 8\n\nMuscles worked: shoulders, triceps, core"
+  },
+  {
+    "ExerciseName": "Alternating Dumbell Row",
+    "Description": "Hold a pair of dumbbells at arms length in front of you, palms facing your thighs. Keeping your back naturally arched, bend at the hips and lower your torso until it's nearly parallel to the floor. Keep your arms straight as you bend your hips so that the dumbbells hang straight down. Pull the dumbbell in your left hand by bending your elbow and raising your upper arm toward the middle of your back. Lower and repeat with your right arm. That's one repetition.\n\nModification: To make it easier, perform the move with both hands at once (using both hands requires less core stability).\n\nRepetitions: 10 to 12\n\nMuscles worked: middle back, biceps, core"
+  }
+]
+}
